@@ -40,7 +40,7 @@
 				</li>
 			</div>
 			<li>
-				<a href="sell_write.jsp">상품등록</a>
+				<a href="itemUpdateForm.jsp">상품등록</a>
 			</li>
 			<li>
 				<a href="mypage.jsp">마이페이지</a>
